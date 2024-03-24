@@ -1,6 +1,0 @@
-[submodule "themes/JuiceBar"]
-	path = themes/JuiceBar
-	url = https://github.com/hotjuicew/hugo-JuiceBar.git
-[submodule "portfolio/themes/JuiceBar"]
-	path = portfolio/themes/JuiceBar
-	url = https://github.com/hotjuicew/hugo-JuiceBar.git
